@@ -20,7 +20,7 @@ Replace the last part of the first line with the original repository clone URL
 
 This links the fork back to the original repository as a remote, which we’ll name upstream, and then fetch it.
 
-```git remote add --track master upstream git@github.com:pratikbarjatya/covid19India.git```
+```git remote add --track master upstream git@github.com:pratikbarjatya/TelecomCaseStudy.git```
 
 ```git fetch upstream```
 
